@@ -1,0 +1,15 @@
+As mentioned in earlier feedback, I wasn't able to complete
+most of the javascripting exercises because of instructions like this:
+
+=========================================================
+
+  Create a file named .  
+   
+  In that file, create a variable named .  
+   
+  Assign the string  to the variable .  
+   
+  Use  to print the length of the string to the terminal.
+
+=========================================================
+
