@@ -1,0 +1,50 @@
+[0m[1m[0m[2Jc[44m[37m[3;2f                                                                             [3;4fJAVASCRIPTING                                                            [44m[37m[4;2f                                                                             [4;4f[23mSelect an exercise and hit [3mEnter[23m to begin                                [44m[37m[5;2f                                                                             [5;4f─────────────────────────────────────────────────────────────────────────[6;2f                                                                             [7;2f                                                                             [8;2f                                                                             [9;2f                                                                             [10;2f                                                                             [11;2f                                                                             [12;2f                                                                             [13;2f                                                                             [14;2f                                                                             [15;2f                                                                             [16;2f                                                                             [17;2f                                                                             [18;2f                                                                             [19;2f                                                                             [20;2f                                                                             [21;2f                                                                             [22;2f                                                                             [23;2f                                                                             [24;2f                                                                             [44m[37m[25;2f                                                                             [25;4f─────────────────────────────────────────────────────────────────────────[26;2f                                                                             [27;2f                                                                             [28;2f                                                                             [29;2f                                                                             [?25l[2;2f                                                                             [6;4f[44m[37m» INTRODUCTION                                                [COMPLETED][7;4f[47m[34m» VARIABLES                                                              [8;4f[44m[37m» STRINGS                                                     [COMPLETED][9;4f[44m[37m» STRING LENGTH                                                          [10;4f[44m[37m» REVISING STRINGS                                                       [11;4f[44m[37m» NUMBERS                                                                [12;4f[44m[37m» ROUNDING NUMBERS                                                       [13;4f[44m[37m» NUMBER TO STRING                                                       [14;4f[44m[37m» IF STATEMENT                                                           [15;4f[44m[37m» FOR LOOP                                                               [16;4f[44m[37m» ARRAYS                                                                 [17;4f[44m[37m» ARRAY FILTERING                                                        [18;4f[44m[37m» ACCESSING ARRAY VALUES                                                 [19;4f[44m[37m» LOOPING THROUGH ARRAYS                                                 [20;4f[44m[37m» OBJECTS                                                                [21;4f[44m[37m» OBJECT PROPERTIES                                                      [22;4f[44m[37m» FUNCTIONS                                                              [23;4f[44m[37m» FUNCTION ARGUMENTS                                                     [24;4f[44m[37m» SCOPE                                                                  [26;4f[44m[37mHELP                                                                     [27;4f[44m[37mCHOOSE LANGUAGE                                                          [28;4f[44m[37mCHECK FOR UPDATE                                                         [29;4f[44m[37mEXIT                                                                     [44m[37m[30;2f                                                                             [31;1f[0m[0m[2Jc[?25h[0m[1;1f   
+ # JAVASCRIPTING  
+   
+ ## VARIABLES (Exercise 2 of 19)  
+   
+  A variable is a name that can reference a specific value. Variables are  
+  declared using  followed by the variable's name.  
+   
+  Here's an example:  
+   
+     var example;  
+   
+  The above variable is declared, but it isn't defined (it does not yet  
+  reference a specific value).  
+   
+  Here's an example of defining a variable, making it reference a specific  
+  value:  
+   
+     var example = 'some string';  
+   
+ # NOTE  
+   
+  A variable is declared using  and uses the equals sign to define the value  
+  that it references. This is colloquially known as "Making a variable equal  
+  a value".  
+   
+ ## The challenge:  
+   
+  Create a file named .  
+   
+  In that file declare a variable named .  
+   
+  Make the variable  equal to the value .  
+   
+  Then use  to print the  variable to the console.  
+   
+  Check to see if your program is correct by running this command:  
+   
+    
+   
+ ─────────────────────────────────────────────────────────────────────────────  
+  Need help? View the README for this workshop: (http://)  
+   
+ ─────────────────────────────────────────────────────────────────────────────  
+   
+   » To print these instructions again, run:  
+   » To execute your program in a test environment, run:  
+   » To verify your program, run:  
+   » For help run:  
+   
